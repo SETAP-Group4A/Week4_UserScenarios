@@ -16,6 +16,12 @@ Yes, some describtions or videos could be helpful.
 For what purpose are you interested in searching for pc components (Nabil Mateen)
 I am interested in these components and would just like to gain more knowledge about things like this.
 
+
 **Would you like to know which compoent is the best seller in your region?** (Frank Lin)
 <br>
 No, I just got limit budget, I don't want to know about it. 
+
+Question:
+Would you as the user like to compare all components on the market or only specific brand or type of parts.
+Answer:
+Have a diagram with all the parts available with all the configurations and also have opinions of other users for different reviews.

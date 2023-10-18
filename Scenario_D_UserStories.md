@@ -12,3 +12,8 @@ I have trouble with my eyesight so large fonts would be nice.
 
 For what purpose are you interested in searching for pc components (Nabil Mateen)
 I am interested in these components and would just like to gain more knowledge about things like this.
+
+Question:
+Would you as the user like to compare all components on the market or only specific brand or type of parts.
+Answer:
+Have a diagram with all the parts available with all the configurations and also have opinions of other users for different reviews.
